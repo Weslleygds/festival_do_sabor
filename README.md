@@ -1,3 +1,10 @@
-Festival_do_sabor
+Festival do Sabor  
+Backend desenvolvido para o projeto acadêmico Festival do Sabor.
 
-Desenvolvimento backend criado para o projeto acadêmico festival do sabor.
+Tecnologias
+- Java
+- Spring Boot
+- MySQL  
+
+Objetivo
+Facilitar a divulgação e administração do restaurante.
